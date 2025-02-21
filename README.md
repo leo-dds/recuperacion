@@ -1,4 +1,4 @@
-
+https://github.com/leo-dds/recuperacion.git
 # recuperacion
 1. Explica métodos para 'abrir' unha consola/shell a un contenedor en execución.
    docker exec -it nome_contenedor sh
